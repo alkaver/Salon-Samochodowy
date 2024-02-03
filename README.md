@@ -2,8 +2,7 @@
 Witaj w projekcie Salon Samochodowy! Ten projekt to przykładowa aplikacja umożliwiająca przeglądanie oraz sortowanie samochodów dostępnych w salonie.
 
 # Funkcje
-* Przeglądanie Samochodów
-Aplikacja umożliwia przeglądanie dostępnych samochodów w salonie.
+* Aplikacja umożliwia przeglądanie dostępnych samochodów w salonie.
 każdy samochód jest przedstawiony z podstawowymi informacjami, takimi jak marka, model, rok produkcji itp.
 
 * Sortowanie - 
